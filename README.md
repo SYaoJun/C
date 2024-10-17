@@ -16,3 +16,12 @@
 - 指针
 - 结构体
 - makefile，valgrind，gdb
+
+## 推荐书籍
+- 《C Primer Plus》
+- 《C专家编程》
+- 《C缺陷与陷阱》
+- 《C和指针》
+
+## 推荐课程
+- Stanford CS107
