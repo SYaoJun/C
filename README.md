@@ -1,8 +1,14 @@
-# C语言学习笔记
-- C++调用C
-- C调用C++
-- Extern
+# C语言工程实践
+- C++与C库互相调用
+- extern关键字
+- static关键字
 - 头文件重复定义
+- 函数指针
+- 回调函数
+- 性能分析工具gprof
+- 内存检测工具valgrind/asan
+- makefile
+
 ## 环境
 > Ubuntu 22.04
 
@@ -25,3 +31,11 @@
 
 ## 推荐课程
 - Stanford CS107
+
+## 目录格式
+
+```
+├── README.md
+├── main.c
+└── makefile
+```
